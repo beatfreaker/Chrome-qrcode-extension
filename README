@@ -1,3 +1,7 @@
+This repository is a fork from https://github.com/fxkr/chrome-qrcode-extension !
+
+---
+
 A Google Chrome extension that shows the current URL as a QR code.
 
 I often use this to quickly copy a URL to my smartphone.
@@ -5,6 +9,10 @@ I often use this to quickly copy a URL to my smartphone.
 It uses Kazuhiko Arases javascript library (http://www.d-project.com/) to
 draw the QR codes instead of relying on some third-party web API (like
 all of the other extensions I looked at. Wtf?).
+
+Installing:
+    You can install this Chrome extension from Chrome Web Store.
+    https://chrome.google.com/webstore/detail/qr-code/hpoogpfebgodcdajnigpkmchikmngnmg
 
 Installing (for developers):
 
